@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mohit 👋</h1>
 
 <p align="center">
-  <em>CS Undergrad • DSA Enthusiast • Web Dev Learner • ML Explorer • Gym Rat • Builder at Heart</em>
+  <em>CS Undergrad • DSA Enthusiast • Web Dev Learner • ML Explorer •</em>
 </p>
 
 ---
