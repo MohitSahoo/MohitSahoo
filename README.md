@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Mohit 👋</h1>
 
-<!--
-**MohitSahoo/MohitSahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>CS Undergrad • DSA Enthusiast • Web Dev Learner • ML Explorer • Gym Rat • Builder at Heart</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🧠 Currently grinding through **DSA**, building **web projects**, and exploring **machine learning**
+- 👨‍💻 Love creating things that blend **logic + clean aesthetics**
+- 🧩 Curious about AI/ML, cybersecurity, creative frontend, and anything that challenges me to think deeper
+- 🎯 Always down for a **hackathon**, side project, or intense problem-solving session
+- 🛠️ I believe in building things that matter — one line of code at a time
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+Languages:    Python | C | C++ | JavaScript
+Web Dev:      HTML | CSS | TailwindCSS | React (learning) | Node.js (next)
+Tools & DB:   Git | GitHub | Firebase | MongoDB | Linux | Tkinter | Figma
+ML/AI:        scikit-learn | pandas | matplotlib | OpenCV (exploring)
