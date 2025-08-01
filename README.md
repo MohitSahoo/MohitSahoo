@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mohit 👋</h1>
 
 <p align="center">
-  <em>CS Undergrad • DSA Enthusiast • Web Dev Learner • ML Explorer •</em>
+  <em>CS Undergrad • DSA Enthusiast • Web Dev Learner • ML Explorer</em>
 </p>
 
 ---
@@ -14,6 +14,7 @@
 - 🎯 Always down for a **hackathon**, side project, or intense problem-solving session
 - 🛠️ I believe in building things that matter — one line of code at a time
 
+
 ---
 
 ### 🛠️ Tech Stack
@@ -23,3 +24,6 @@ Languages:    Python | C | C++ | JavaScript
 Web Dev:      HTML | CSS | TailwindCSS | React (learning) | Node.js (next)
 Tools & DB:   Git | GitHub | Firebase | MongoDB | Linux | Tkinter | Figma
 ML/AI:        scikit-learn | pandas | matplotlib | OpenCV (exploring)
+```
+> *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."*  
+> — *Bruce Lee*
