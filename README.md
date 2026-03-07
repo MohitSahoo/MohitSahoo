@@ -23,8 +23,8 @@
 Languages:        Python | C | C++ | JavaScript | TypeScript
 Web Development:  HTML | CSS | TailwindCSS | Bootstrap | React | Next.js
 Backend:          Node.js | Express.js | Django | Flask
-Databases:        MongoDB | Firebase | SQL
-Tools & Platforms: Git | GitHub | Linux | Vercel | Netlify
+Databases:        MongoDB | Supabase | SQL
+Tools & Platforms: Git | GitHub | Linux | Vercel | Netlify | Render
 ML / Data:        scikit-learn | pandas | NumPy | matplotlib | OpenCV | TensorFlow (exploring)
 Testing & APIs:   Postman | REST APIs
 ```
