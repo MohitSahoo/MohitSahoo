@@ -21,7 +21,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Push changes
-        uses: actions/add-and-commit@v9
-        with:
-          message: "Update snake animation"
-          branch: main
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/github-contribution-grid-snake-dark.svg
+          git commit -m "Update snake animation" || true
+          git push
