@@ -107,12 +107,6 @@ mohit = {
 
 <br/><br/>
 
-*"I fear not the man who has practiced 10,000 kicks once,*
-*but I fear the man who has practiced one kick 10,000 times."*
-**— Bruce Lee**
-
-<br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:0d1117&height=120&section=footer&text=Let's+Build+Something+Real&fontSize=24&fontColor=58a6ff&animation=twinkling&fontAlignY=65"/>
 
 </div>
