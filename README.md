@@ -92,7 +92,7 @@ mohit = {
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MohitSahoo/MohitSahoo/main/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" width="100%" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/MohitSahoo/MohitSahoo/main/dist/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
 
 ---
