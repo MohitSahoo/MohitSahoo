@@ -85,10 +85,6 @@ mohit = {
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohitSahoo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MohitSahoo&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
-
 </div>
 
 ---
@@ -96,7 +92,7 @@ mohit = {
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MohitSahoo/MohitSahoo/main/dist/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/MohitSahoo/MohitSahoo/main/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" width="100%" alt="Contribution Snake" />
 </div>
 
 ---
@@ -104,8 +100,6 @@ mohit = {
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
-
-<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:0d1117&height=120&section=footer&text=Let's+Build+Something+Real&fontSize=24&fontColor=58a6ff&animation=twinkling&fontAlignY=65"/>
 
